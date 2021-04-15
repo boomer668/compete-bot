@@ -1,1 +1,1 @@
-worker: compete-bot
+worker: compete-bot bot.py
